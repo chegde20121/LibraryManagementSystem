@@ -20,7 +20,7 @@ Admin users have access to the following actions:
 
 Admin can add a new user to the system by selecting the "Add new user" option. They will be prompted to enter the details of the new user, including username, password, and role.
 
-###### 2. Logout
+#### 2. Logout
 
 Admin can choose to logout from the system by selecting the "Logout" option. This will log out the current admin user and return to the login screen.
 
